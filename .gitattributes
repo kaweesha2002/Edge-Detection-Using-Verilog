@@ -1,2 +1,21 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Vivado temporary files & logs
+*.log
+*.jou
+*.str
+*.pb
+.Xil/
+*.dir/
+
+# Vivado build runs and simulation outputs
+*.runs/
+*.sim/
+*.ip_user_files/
+*.hw/
+*.cache/
+
+# Generated Hex & Image test files (Keep originals clean)
+input_hex.txt
+output_sim_hex.txt
+output_ref_hex.txt
