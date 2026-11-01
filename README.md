@@ -1,9 +1,5 @@
 # 🖼️ Hardware-Accelerated Sobel Edge Detection & VGA Display
 
-> A complete hardware/software co-design project implementing a $3 \times 3$ **Sobel Edge Detection Filter** in **Verilog HDL** on the **Basys3 FPGA**, featuring an automated Python verification pipeline and real-time VGA monitor output.
-
----
-
 ## 📌 Project Overview
 
 This project implements real-time image processing acceleration directly on FPGA hardware:
